@@ -1,4 +1,4 @@
-- 👋 Hi, I’m economicsdatascience.com
+- 👋 Hi, I’m Vikas from economicsdatascience.com
 - 👀 I’m interested in Data Science, Machine Learning, and Economics to solve business problems.
 - 🌱 I’m currently learning Data Engineering and Large Language Models.
 - 💞️ I’m looking to collaborate on solving complex problems in business.
