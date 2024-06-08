@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Vikas from economicsdatascience.com
+- 👋 Hi, I’m Vikas
 - 👀 I’m interested in Data Science, Machine Learning, and Economics to solve business problems.
 - 💞️ I’m looking to collaborate on solving complex problems in business.
-- 📫 How to reach me vikch27@gmail.com and +919336079068.
+- 📫 How to reach me: vikch27@gmail.com and +919336079068.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: The degree to which people undervalue an econ PhD.
 
